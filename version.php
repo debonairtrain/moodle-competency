@@ -26,7 +26,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'theme_competency';
-$plugin->version = 2023011700;
+$plugin->version = 2023012800;
 $plugin->release = 'v1.5';
 $plugin->requires = 2022041200;
 $plugin->maturity = MATURITY_STABLE;

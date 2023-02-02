@@ -1150,7 +1150,6 @@ class core_renderer extends \theme_boost\output\core_renderer {
                                                   $comp33 = $res2->shortname;
                                                   $comp2 = str_replace("communication,","",$compaa);
                                                   $comp3 = str_replace("Demonstrate"," Show",$comp33);
-                                                  $totalss= (count($showcompetency));
                                                   $Competency= $showcompetency->framework;
                                                   $total = $showcompetency->total;
                                                   $rows = array($showcompetency->competency_path);
